@@ -4,10 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Fresh.'
+    title: ''
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Strong advocate for the use of open source technologies in day-to-day library operations. Heavily involved with ILS system management, data (and metadata) wrangling, server administration, process automation, and a host of other technical odds-and-ends for the [Consortium of Ohio Libraries (COOL)](https://info.cool-cat.org/), [Ohio Private Academic Libraries (OPAL)](https://opal-libraries.org/), and the [Private Academic Library Network of Indiana (PALNI)](https://www.palni.org/)
   - section_id: about
     type: section_content
     title: About
